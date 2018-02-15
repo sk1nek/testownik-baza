@@ -1,0 +1,6 @@
+X0010
+Synonimem kodowania protekcyjnego jest:
+zabezpieczenie przed niepowo³anym dostêpem  
+kodowanie Ÿród³owe 
+kodowanie nadmiarowe  
+kodowanie kana³owe

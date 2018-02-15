@@ -1,0 +1,6 @@
+X0011
+Kody œciœle równowa¿ne charakteryzuj¹ siê nastêpuj¹cymi cechami:
+maj¹ inne przyporz¹dkowanie s³ów informacyjnych do s³ów kodowych
+maj¹ takie same macierze generuj¹ce
+maj¹ t¹ sam¹ zdolnoœæ korekcyjn¹ i detekcyjn¹
+maj¹ ten sam zbiór s³ów kodowych i informacyjnych ale inne przyporz¹dkowanie pomiêdzy s³owami kodowymi i informacyjnymi. 
